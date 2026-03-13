@@ -2,12 +2,12 @@ import React from 'react';
 import { Favorite } from '../hooks/Favorite';
 import { StatusBar } from '../hooks/useOnline';
 import { UseSta } from '../hooks/useSta';
-import { UseEffect } from '../hooks/UseEffect';
-import { UseMemo } from "../hooks/useMemo";
-import { UseCont } from '../hooks/useCont';
+import { UseEffect } from '../hooks/useEffect';
 import { UseCallback } from '../hooks/useCallback';
 import { UseRef } from "../hooks/UseRef";
 import { UseReducer } from "../hooks/UseReducer";
+import { UseMemo } from "../hooks/useMemo";
+import { UseCont } from '../hooks/useCont';
 import Grid from '@mui/material/Grid';
 import { Box, Typography } from '@mui/material';
 
