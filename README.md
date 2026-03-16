@@ -19,10 +19,10 @@ La aplicación simula una tienda de gorras con paleta de colores en **blanco y n
 - 🧩 Práctica de los principales Hooks de React (`useState`, `useEffect`, `useMemo`, `useContext`, `useCallback`, `useRef`, `useReducer`)
 - 🪝 Implementación de un **Custom Hook** (`useOnline`) para detectar conexión a internet
 - 🛒 **Carrito de compras** funcional con agregar, eliminar y cálculo de total en tiempo real
-- ❤️ Sección de **favoritos** con pantalla de estado vacío
+- ❤️ Sección de **favoritos** con pantalla 
 - 📱 Diseño **responsivo** con menú hamburguesa en móvil
 - 🎨 Estilo **blanco y negro** usando componentes de Material UI
-- 🗂️ Catálogo de productos dividido por categorías
+- 🗂️ Catálogo de productos dividido por categoria de dos colores
 - 🔔 Notificaciones con `Snackbar` al interactuar con productos
 ## 📁 Estructura del proyecto
 ```
